@@ -1,0 +1,63 @@
+    1  ls
+    2  cd ..
+    3  cd ..
+    4  cd /
+    5  ls
+    6  cd ..
+    7  cd ~
+    8  cd..
+    9  cd ..
+   10  cd
+   11  cd home_work/
+   12  cd HW_10
+   13  cd ..
+   14  cd ..
+   15  ls -l
+   16  cd home_work/
+   17  cd HW_10
+   18  touch text_ignore.txt
+   19  git status
+   20  git add .
+   21  commit
+   22  commit
+   23  ls
+   24  cat text.ignore
+   25  cat text_ignore.txt
+   26  git status text_ignore.txt 
+   27  git add /
+   28  git add .
+   29  commit text_ignore.txt
+   30  [200~git config --global user.name "Ваше новое имя пользователя"
+   31  git config --global user.name "maks-yakimenko"
+   32  git config --global user.email "maksyakimnko24@gmail.com"
+   33  ls
+   34  clear
+   35  commit -m "task1"
+   36  git commit "task1"
+   37  git commit -m "task1"
+   38  git status
+   39  git status text_ignore.tex
+   40  git status
+   41  git status text_ignore.txt
+   42  git config --global user.name
+   43  git config --global user.email
+   44  touch main_test.txt
+   45  git add .
+   46  git commit "task2"
+   47  git commit -m "task2"
+   48  git branch develop
+   49  git checkout develop
+   50  git add .
+   51  touch develop_test.txt
+   52  git add /
+   53  git add .
+   54  commit -m "task3.1"
+   55  git commit -m "task3.1"
+   56  nano develop_test.txt 
+   57  git status
+   58  git add .
+   59  git commit -m "task3.2"
+   60  git checkout main
+   61  git merge develop
+   62  git log
+   63  history > command_list.csv
